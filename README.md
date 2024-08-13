@@ -50,4 +50,3 @@ The project successfully demonstrated the application of advanced machine learni
 1. Clone the repository:
    ```bash
    git clone https://github.com/MusaibNagani/Single-Cell-RNA-Sequencing.git
-   cd scRNA-seq-analysis
