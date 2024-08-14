@@ -7,9 +7,8 @@ This project is a comprehensive exploration of single-cell RNA sequencing (scRNA
 ## Project Structure
 
 - **data/**: Contains the raw and processed scRNA-seq datasets used for analysis.
-- **scripts/**: Python scripts for data preprocessing, implementing machine learning models, including dimensionality reduction and graph-based analysis.
-- **models/**: Pre-trained models and scripts for training Graph Convolutional Networks (GCN) and Graph Attention Networks (GAT).
-- **results/**: Contains visualizations, model performance metrics, and other outputs from the analysis.
+- **src/**: Pre-trained models and scripts for training Graph Convolutional Networks (GCN) and Graph Attention Networks (GAT).
+- **visual_data/**: Contains visualizations, model performance metrics, and other outputs from the analysis.
 - **README.md**: Overview of the project, structure, and instructions for running the analysis.
 
 ## Data Description
